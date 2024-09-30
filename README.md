@@ -1,5 +1,5 @@
 # CPU Scheduling Algorithm Visualizer
-**Description**
+**Description :**
 The CPU Scheduling Algorithm Visualizer is a command-line tool designed to help users understand the working of various CPU scheduling algorithms, including:
 
 First-Come-First-Serve (FCFS)
@@ -8,7 +8,7 @@ Priority Scheduling
 Round Robin
 This tool allows users to input process details and visually understand how processes are scheduled, providing key metrics such as waiting time and turnaround time for each algorithm.
 
-**Features**
+**Features :**
 🖥️ Simulation of major CPU scheduling algorithms: FCFS, SJF, Priority, and Round Robin.
 🕒 Custom input for process burst time, arrival time, and priority (for priority scheduling).
 📊 Output includes Gantt Chart representation, average waiting time, and turnaround time for each process.
@@ -57,7 +57,7 @@ Select the scheduling algorithm:
 
 # The output will show the order of execution, Gantt chart, and performance metrics.
 
-**Technologies**
+**Technologies :**
 Programming Language: C++ (or Java, Python, etc., depending on your actual implementation)
 Concepts: CPU Scheduling, Gantt Charts, Process Management
 

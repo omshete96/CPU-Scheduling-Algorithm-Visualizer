@@ -1,4 +1,4 @@
-#CPU Scheduling Algorithm Visualizer
+# CPU Scheduling Algorithm Visualizer
 **Description**
 The CPU Scheduling Algorithm Visualizer is a command-line tool designed to help users understand the working of various CPU scheduling algorithms, including:
 
